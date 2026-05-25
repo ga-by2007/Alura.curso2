@@ -1,1 +1,1 @@
-# Alura.curso2
+Landing page desenvolvida durante o ensino médio utilizando HTML e CSS, inspirada na plataforma Alura+. O projeto foi criado para praticar estruturação de páginas modernas, responsividade, estilização com CSS e organização de componentes visuais.
